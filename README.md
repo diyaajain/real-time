@@ -8,20 +8,6 @@ This is a simple real-time sentiment analysis application built with Flask and H
 - Simple and intuitive user interface.
 - Feedback displayed directly on the page.
 
-## Project Structure
-
-real-time/
-├── app.py                # Main Flask application file
-├── venv/                 # Virtual environment directory
-├── static/               # Directory for static files
-│   ├── css/              # Folder for stylesheets
-│   │   └── styles.css    # Custom styles for the application
-│   └── js/               # Folder for JavaScript files
-│       └── scripts.js     # JavaScript code for handling user interactions and API requests
-└── templates/            # Directory for HTML templates
-    └── index.html        # Main HTML file for user input and displaying results
-
-
 ### File Descriptions
 
 - **app.py**: The main Flask application file that handles routing and sentiment analysis.
